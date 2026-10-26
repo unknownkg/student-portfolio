@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets and dependencies
+.env
+.env.*
+node_modules/
+
+# Logs
+*.log
+
+# Local laboratory materials and tools
+submission/
+tools/
+docs/superpowers/
+.practice-clone/
+tmp/
